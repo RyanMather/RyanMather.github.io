@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- [<a href="/assets/docs/ryan_mather_cv.pdf" download="download">CV</a>]
+ [<a href="/assets/docs/ryan_mather_cv.pdf" download="ryan_mather_cv">CV</a>]
 
  
 # Working Papers
