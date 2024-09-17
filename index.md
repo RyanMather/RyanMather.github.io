@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+ [<a href="/assets/docs/ryan_mather_cv.pdf" download="download">CV</a>]
 
+ 
 # Working Papers
 
 "Home Town Labor Markets and Degree Choice" _with Andrew Smith_
