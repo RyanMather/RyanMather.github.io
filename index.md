@@ -16,7 +16,6 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf" download="jmp_ryan_
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 # Selected Non-academic Writing
 
