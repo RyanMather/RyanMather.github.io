@@ -15,6 +15,11 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf" download="jmp_ryan_
 "Top Percent Plans and Student Beliefs about STEM Ability"
 
 
+
+
+
+
+
 # Selected Non-academic Writing
 
 <a href="https://www.richmondfed.org/-/media/richmondfedorg/research/economists/bios/pdfs/athreya_covid19_paper_part2.pdf">"The Spread of COVID-19 and (Financial) Pre-Existing Conditions"</a> March 2020 _with Kartik Athreya, José Mustre-del-Río, and Juan M. Sánchez_ 
