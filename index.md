@@ -12,7 +12,7 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf">"Home Town Labor Ma
 
 <a href="/assets/docs/STEM_Beliefs.pdf">"Top Percent Plans and Student Beliefs about STEM Ability"</a>
 
-"Student Transferring and Outcomes under the Texas Public Education Grant" _with Andrew Smith_
+<a href="/assets/docs/peg.pdf">"Student Transferring and Outcomes under the Texas Public Education Grant"</a> _with Andrew Smith_
 
 
 
