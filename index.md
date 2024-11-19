@@ -8,7 +8,7 @@ layout: default
 
 Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf">"Hometown Labor Markets and Degree Choice"</a> _with Andrew Smith_
 
-[“The Effects of Macroeconomic Shocks: Household Financial Distress Matters”](https://www.kansascityfed.org/documents/8471/rwp20-13athreyamathermustredelriosanchez.pdf) (Conditionally Accepted, The Review of Financial Studies) Federal Reserve Bank of Kansas City Working Paper  20-13 _with Kartik Athreya, José Mustre-Del Río, and Juan M. Sánchez_
+[“The Effects of Macroeconomic Shocks: Household Financial Distress Matters”](https://www.kansascityfed.org/documents/8471/rwp20-13athreyamathermustredelriosanchez.pdf) forthcoming in [The Review of Financial Studies](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhae058/7831442) _with Kartik Athreya, José Mustre-Del Río, and Juan M. Sánchez_
 
 <a href="/assets/docs/STEM_Beliefs.pdf">"Top Percent Plans and Student Beliefs about STEM Ability"</a>
 
