@@ -19,7 +19,7 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf">"Hometown Labor Mar
 
 # Publication
 
-[“The Effects of Macroeconomic Shocks: Household Financial Distress Matters”](https://academic.oup.com/rfs/article/38/2/564/7831442) _with Kartik Athreya, José Mustre-Del Río, and Juan M. Sánchez. THe Review of Financial Studies_, Vol 38, Issue 2, February 2025. [Working Paper](https://www.kansascityfed.org/documents/8471/rwp20-13athreyamathermustredelriosanchez.pdf)
+[“The Effects of Macroeconomic Shocks: Household Financial Distress Matters”](https://academic.oup.com/rfs/article/38/2/564/7831442) _with Kartik Athreya, José Mustre-Del Río, and Juan M. Sánchez. The Review of Financial Studies_, Vol 38, Issue 2, February 2025. [Working Paper](https://www.kansascityfed.org/documents/8471/rwp20-13athreyamathermustredelriosanchez.pdf)
 
 <br/><br/>
 <br/><br/>
