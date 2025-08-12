@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- [<a href="/assets/docs/ryan_mather_cv.pdf">CV</a>] [<a href="/assets/docs/resume.pdf">Resume</a>]
+<!-- [<a href="/assets/docs/ryan_mather_cv.pdf">CV</a>] [<a href="/assets/docs/resume.pdf">Resume</a>] -->
 
  
 # Working Papers
@@ -10,7 +10,7 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf">"Hometown Labor Mar
 
 
 
-<a href="/assets/docs/STEM_Beliefs.pdf">"Top Percent Plans and Student Beliefs about STEM Ability"</a>
+<!-- <a href="/assets/docs/STEM_Beliefs.pdf">"Top Percent Plans and Student Beliefs about STEM Ability"</a>  -->
 
 <a href="/assets/docs/peg.pdf">"Student Transferring and Outcomes under the Texas Public Education Grant"</a> _with Andrew Smith_ 
 
