@@ -14,7 +14,7 @@ Job Market Paper: <a href="/assets/docs/jmp_ryan_mather.pdf">"Hometown Labor Mar
 
 <a href="/assets/docs/peg.pdf">"Student Transferring and Outcomes under the Texas Public Education Grant"</a> _with Andrew Smith_ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="/assets/docs/Policy_Writing_Sample_PEG.pdf">Policy-oriented technical summary</a>]
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="/assets/docs/Policy_Writing_Sample_PEG.pdf">Policy-oriented technical summary</a>] -->
 
 <br/><br/>
 <br/><br/>
